@@ -1,0 +1,64 @@
+= Meeting 07-08-2015
+
+== Participants
+
+Martin Styner
+Juan Carlos Prieto
+
+== Starting tasks
+
+Get to know the tools.
+Get familiar with GIT, ITK, VTK, Slicer, testing facilities. 
+As a general rule, all the tools have a GUI but they need to be cluster friendly. 
+
+
+=== Wiki
+
+The wiki offers relevant information about the network setup in the lab. 
+The wiki is located at http://pandora.ia.unc.edu/wiki/index.php/Main_Page
+
+More information about the network setup and computers can be found at http://pandora.ia.unc.edu/wiki/index.php/InfrastructureNotes
+
+==== TODO
+
+Create account Wiki and remove Fileserver and SUN (end of line)
+
+== Ongoing projects/grants involving François
+
+
+Rodent imaging -> Involves mostly data processing. Sulik & Parnell (School of medicine)
+Autoseg, NeoSeg pipeline.
+IDDRC (Intelectual disability dissease research center)
+Cranio/orthodontics
+
+== My future project
+
+-TAMU (Texas A&M University)
+	- Temperature MRI porcine model of TBI (traumatic brain injury)
+	- Local temperature modulation can reduce the impact of TBI. (Blast, then cooling down the brain)
+	- Have measurements 
+		- MRI pre-exposure
+		- MRI post-exposure
+			- pre-treatment
+			- post-treatment -> Validation of cooling
+		- Types of measurements:
+			- Temperature MRI, check temperature distribution
+			- Structural imaging T1W, T2W
+			- DTI
+			- Vascular perfusion, regional measurements.
+		- We have to measure temperature distribution.
+		- Edema volume, Edema segmentation + volume. 
+		- DTI fiber properties
+		- Perfusion stats
+
+- TAMU (Texas AMU): Muscular dystrophy. 
+	- DMD - muscle segmentation
+	- DMD - muscle MRI - DTI (diffusion properties of muscles), Important to know about DTI! 
+
+=== TODO: Keep reminding Martin to move forward to create the position.
+=== TODO: References on temperature imaging.
+
+- Chen J, Daniel BL, Diederich CJ, Bouley DM, van den Bosch MAAJ, Kinsey AM, et al. Monitoring prostate thermal therapy with diffusion-weighted MRI. Magn Reson Med. 2008 Jun;59(6):1365–72.
+- Liu G, Qin Q, Chan KWY, Li Y, Bulte JWM, McMahon MT, et al. Non-invasive temperature mapping using temperature-responsive water saturation shift referencing (T-WASSR) MRI. NMR in biomedicine. 2014 Mar;27(3):320–31. PMCID: PMC3989428
+- Soher BJ, Wyatt C, Reeder SB, MacFall JR. Noninvasive temperature mapping with MRI using chemical shift water-fat separation. Magn Reson Med. 2010 May;63(5):1238–46. PMCID: PMC2980328
+- Tazoe J, Yamada K, Sakai K, Akazawa K, Mineura K. Brain core temperature of patients with mild traumatic brain injury as assessed by DWI-thermometry. Neuroradiology. 2014 Oct;56(10):809–15. PMCID: PMC4180914

@@ -1,0 +1,19 @@
+= Meeting 07-14-2015
+
+== Participants
+Jean-Baptiste, Laura, François, Beatriz, Juan
+
+== For this week
+
+1. GIT tutorial
+2. SimpleITK + ITK
+
+Create a repository in GIT that is available for us, we should have administrator privileges as well. 
+You will create python scripts that use simpleITK to wrap different ITK filters. For example you can create a Gaussian filter, Shrink an image or filter, Dilate, Erode etc. 
+
+For every filter you create you must create a different branch in your GIT repository. 
+Once you finish an example, merge the branch to the master and continue with the next example. 
+
+Push all of the changes to the upstream repository. 
+
+== Don't hesitate to ask questions!!
